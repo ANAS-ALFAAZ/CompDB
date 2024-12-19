@@ -8,6 +8,8 @@ The DBMS is designed for high performance, with optimized SQL queries for data r
 ![image](https://github.com/user-attachments/assets/e519be20-b2df-42c5-b5e4-b34112074cfc)
 # Company Database Schema
 ![image](https://github.com/user-attachments/assets/448b5456-29ad-4520-854b-98af782f4dbc)
+# Company Database
+![image](https://github.com/user-attachments/assets/4b5bbe30-8597-49c0-97f9-ef377ee9036b)
 # Technologies Used
 * MySQL 
 * PostgreSQL
